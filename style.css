@@ -1,0 +1,20 @@
+#name{
+    text-align: center;
+}
+
+#summary{
+    text-size-adjust: 5px;
+}
+
+#written{
+    font-size: 1.1rem;
+}
+
+#githubfavicon{
+    width: 10;
+    height: 10;
+}
+
+#projectlink{
+    margin-left: 65rem;
+}
